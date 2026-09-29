@@ -1,0 +1,8 @@
+employee_id,first_name,role,employment_type,hire_date,termination_date,hourly_wage
+E01,Maria,Store manager,Full-time,2019-04-15,,26.0
+E02,Kevin,Senior associate,Full-time,2021-08-02,,21.0
+E03,Aisha,Associate,Full-time,2023-02-13,,19.5
+E04,Daniel,Associate,Part-time,2023-10-09,,18.5
+E05,Priya,Associate,Part-time,2025-03-03,,18.0
+E06,Tom,Associate,Part-time,2022-06-20,2025-02-21,18.0
+E07,Sam,Seasonal associate,Seasonal,2024-11-12,,18.0
